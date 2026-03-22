@@ -6,7 +6,7 @@ This repository implements a **MATE** (Multimodal Aspect Term Extraction) model 
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/quanglap100905/SeqCSG-MATE.git](https://github.com/quanglap100905/SeqCSG-MATE.git)
+git clone https://github.com/quanglap100905/SeqCSG-MATE.git
 cd SeqCSG-MATE
 
 # 2. Install dependencies
